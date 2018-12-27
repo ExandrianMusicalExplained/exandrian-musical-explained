@@ -9,7 +9,7 @@
 </head>
 <body>
   <nav class="navbar navbar-expand-md navbar-light bg-light justify-content-between mb-2">
-    <a class="navbar-brand" href="/index.html">Vox Machina - An Exandrian Musical, Explained</a>
+    <a class="navbar-brand" href="<%= $in_subdir ? '../' : '' %>index.html">Vox Machina - An Exandrian Musical, Explained</a>
     <a class="navbar-text text-right" href="https://github.com/Grinnz/guide-to-vm-musical">Source on GitHub</a>
   </nav>
   <div class="container">
