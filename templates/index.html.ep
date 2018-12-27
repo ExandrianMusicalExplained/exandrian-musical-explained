@@ -1,0 +1,7 @@
+    %== $content
+    <p><a href="/songs.html">All Songs (Single Page)</a></p>
+    <ol>
+    % foreach my $song (@$songs) {
+      <li><a href="/<%= $song->{slug} %>.html"><%= $song->{name} %></a></li>
+    % }
+    </ol>

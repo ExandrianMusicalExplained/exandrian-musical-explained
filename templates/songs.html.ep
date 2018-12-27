@@ -1,0 +1,9 @@
+    <ol>
+      % foreach my $song (@$songs) {
+        <li><a href="#<%= $song->{slug} %>"><%= $song->{name} %></li>
+      % }
+    </ol>
+    % foreach my $song (@$songs) {
+      <a id="<%= $song->{slug} %>">
+      %== $song->{content}
+    % }
