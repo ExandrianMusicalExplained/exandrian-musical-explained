@@ -12,7 +12,7 @@ my $home = path(__FILE__)->to_abs->dirname;
 my $source_dir = $home->child('source');
 die "No sources found in $source_dir\n" unless -d $source_dir->child('songs') and my @sources = $source_dir->child('songs')->list->sort->each;
 my $template_dir = $home->child('templates');
-my $public_dir = $home->child('public');
+my $public_dir = $home->child('docs');
 
 my $mds = Markdent::Simple::Fragment->new;
 
