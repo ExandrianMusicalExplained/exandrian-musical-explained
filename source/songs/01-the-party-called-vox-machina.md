@@ -1,13 +1,13 @@
-# 01 - The Party Called Vox Machina
+## 01 - The Party Called Vox Machina
 
-## From Hamilton - Alexander Hamilton
+### From Hamilton - Alexander Hamilton
 
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/VhinPd5RRJw" frameborder="0">
 </iframe>
 
 The opening track of Hamilton is an expository introduction to the eponymous Alexander, detailing where he came from with narration by each of the major characters with an interlude by Hamilton, and ending in rapid fire glimpses of those he would interact with and his eventual end.
 
-## To Exandria
+### To Exandria
 
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/LIDuJAvTTRc" frameborder="0">
 </iframe>

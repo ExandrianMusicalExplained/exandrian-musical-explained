@@ -21,7 +21,7 @@ my @songs;
 my $prev_song;
 foreach my $source (@sources) {
   my $html = $mds->markdown_to_html(markdown => decode('UTF-8', $source->slurp));
-  my $name = Mojo::DOM->new($html)->at('h1')->all_text =~ s/^\s*\d+\s*-\s*//r;
+  my $name = Mojo::DOM->new($html)->at('h2')->all_text =~ s/^\s*\d+\s*-\s*//r;
   my $slug = $source->basename =~ s/[^.]*\K.*//r;
   my %song = (name => $name, slug => $slug, content => $html);
   weaken($song{previous} = $prev_song);

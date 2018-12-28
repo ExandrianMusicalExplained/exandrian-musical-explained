@@ -1,3 +1,4 @@
+    <h1>All Songs</h1>
     <ol>
       % foreach my $song (@$songs) {
         <li><a href="#<%= $song->{slug} %>"><%= $song->{name} %></li>

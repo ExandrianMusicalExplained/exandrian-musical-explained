@@ -1,6 +1,6 @@
-# 02 - Emon's Fall
+## 02 - Emon's Fall
 
-## From Hamilton - A Winter's Ball
+### From Hamilton - A Winter's Ball
 
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/WO8Z6S7oHTw" frameborder="0">
 </iframe>
@@ -8,7 +8,7 @@
 Jumping ahead in the first act, with a refrain of the opening verse, Aaron Burr and Alexander Hamilton reflect on their shared love for women,
 as they attend a ball where they meet the Schuyler sisters, of which Eliza would be Hamilton's eventual wife.
 
-## To Exandria
+### To Exandria
 
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/HkAyvGhKvHs" frameborder="0">
 </iframe>
