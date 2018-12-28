@@ -10,10 +10,12 @@
 <body>
   <nav class="navbar navbar-expand-md navbar-light bg-light justify-content-between mb-2">
     <a class="navbar-brand" href="<%= $in_subdir ? '..' : '.' %>">Vox Machina - An Exandrian Musical, Explained</a>
-    <a class="navbar-text text-right" href="https://github.com/exandrianmusicalexplained/exandrian-musical-explained">Source on GitHub</a>
   </nav>
   <div class="container">
     %== $content
   </div>
+  <nav class="navbar navbar-expand-md navbar-light bg-light justify-content-center">
+    <a class="navbar-text" href="https://github.com/exandrianmusicalexplained/exandrian-musical-explained">Source on GitHub</a>
+  </nav>
 </body>
 </html>
