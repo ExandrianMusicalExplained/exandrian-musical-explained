@@ -3,7 +3,7 @@
 ### From Hamilton - A Winter's Ball
 
 <div class="video-responsive">
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/WO8Z6S7oHTw" frameborder="0">
+<iframe id="ytplayer" type="text/html" src="https://www.youtube.com/embed/WO8Z6S7oHTw">
 </iframe></div>
 
 Jumping ahead in the first act, with a refrain of the opening verse, Aaron Burr and Alexander Hamilton reflect on their shared love for women,
@@ -12,7 +12,7 @@ as they attend a ball where they meet the Schuyler sisters, of which Eliza would
 ### To Exandria
 
 <div class="video-responsive">
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/HkAyvGhKvHs" frameborder="0">
+<iframe id="ytplayer" type="text/html" src="https://www.youtube.com/embed/HkAyvGhKvHs">
 </iframe></div>
 
 In a similar vein, Emon's Fall starts with Scanlan and Grog reflecting on their shared affinity for houses of lady favors.

@@ -3,7 +3,7 @@
 ### From Hamilton - Cabinet Battle #1
 
 <div class="video-responsive">
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/dSYW61XQZeo" frameborder="0">
+<iframe id="ytplayer" type="text/html" src="https://www.youtube.com/embed/dSYW61XQZeo">
 </iframe></div>
 
 Jumping ahead to the second act, in Cabinet Battle #1 Thomas Jefferson debates with Alexander Hamilton over Hamilton's idea of establishing a national bank.
@@ -11,7 +11,7 @@ Jumping ahead to the second act, in Cabinet Battle #1 Thomas Jefferson debates w
 ### To Exandria
 
 <div class="video-responsive">
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/Q-dk_-9iUUw" frameborder="0">
+<iframe id="ytplayer" type="text/html" src="https://www.youtube.com/embed/Q-dk_-9iUUw">
 </iframe></div>
 
 In the desperation resulting from the attack on Emon, Grog and Percy turn to an evil Githyanki skull that was found in the house of General Krieg
