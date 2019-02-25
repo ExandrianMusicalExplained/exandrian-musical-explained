@@ -2,15 +2,17 @@
 
 ### From Hamilton - Alexander Hamilton
 
+<div class="video-responsive">
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/VhinPd5RRJw" frameborder="0">
-</iframe>
+</iframe></div>
 
 The opening track of Hamilton is an expository introduction to the eponymous Alexander, detailing where he came from with narration by each of the major characters with an interlude by Hamilton, and ending in rapid fire glimpses of those he would interact with and his eventual end.
 
 ### To Exandria
 
+<div class="video-responsive">
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/LIDuJAvTTRc" frameborder="0">
-</iframe>
+</iframe></div>
 
 Appropriately also the opening track of the Exandrian musical, we start things off with Shaun Gilmore,
 the magnificent and beloved human Runechild sorcerer and proprietor of a magic shop called Gilmore's Glorious Goods.

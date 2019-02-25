@@ -2,15 +2,17 @@
 
 ### From Hamilton - Helpless
 
+<div class="video-responsive">
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/6frd_dHxPRs" frameborder="0">
-</iframe>
+</iframe></div>
 
 Following A Winter's Ball, Helpless tells the tale of Eliza Schuyler being enraptured by Alexander Hamilton and subsequently his asking for her hand in marriage.
 
 ### To Exandria
 
+<div class="video-responsive">
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/KWzAI30XWGU" frameborder="0">
-</iframe>
+</iframe></div>
 
 Similarly following Emon's Fall but with a much darker tone, in the Exandrian musical Helpless tells the tale of the city of Emon
 being powerless against the invading Chroma Conclave of four ancient evil chromatic dragons.
