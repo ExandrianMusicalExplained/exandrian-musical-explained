@@ -11,7 +11,7 @@
   <header class="navbar"><section class="navbar-section">
     <a class="navbar-brand" href="<%= $in_subdir ? '..' : '.' %>">Vox Machina - An Exandrian Musical, Explained</a>
   </section></header>
-  <div class="container">
+  <div class="container grid-lg">
     %== $content
   </div>
   <header class="navbar"><section class="navbar-center">
