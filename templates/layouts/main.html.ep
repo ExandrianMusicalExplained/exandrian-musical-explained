@@ -14,7 +14,7 @@
   <div class="container grid-lg">
     %== $content
   </div>
-  <header class="navbar"><section class="navbar-section"></section><section class="navbar-center">
+  <header class="navbar mb-2"><section class="navbar-section"></section><section class="navbar-center">
     <a href="https://github.com/exandrianmusicalexplained/exandrian-musical-explained">Source on GitHub</a>
   </section><section class="navbar-section"></section></header>
 </body>

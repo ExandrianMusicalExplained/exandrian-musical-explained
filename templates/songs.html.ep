@@ -1,10 +1,10 @@
     <h1>All Songs</h1>
     <ol>
       % foreach my $song (@$songs) {
-        <li><a href="#<%= $song->{slug} %>"><%= $song->{name} %></li>
+        <li><a href="#<%= $song->{slug} %>"><%= $song->{name} %></a></li>
       % }
     </ol>
     % foreach my $song (@$songs) {
-      <a id="<%= $song->{slug} %>">
+      <a id="<%= $song->{slug} %>"></a>
       %== $song->{content}
     % }
