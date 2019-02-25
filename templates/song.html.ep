@@ -1,12 +1,12 @@
 % my $nav = begin
-  <div class="columns">
+  <div class="columns mt-2 mb-2">
     <div class="column col-6">
     % if (defined $previous) {
-      <a class="btn" href="<%= $previous->{slug} %>">« <%= $previous->{name} %></a>
+      <a class="btn btn-sm" href="<%= $previous->{slug} %>">« <%= $previous->{name} %></a>
     % }
     </div><div class="column col-6 text-right">
     % if (defined $next) {
-      <a class="btn" href="<%= $next->{slug} %>"><%= $next->{name} %> »</a>
+      <a class="btn btn-sm" href="<%= $next->{slug} %>"><%= $next->{name} %> »</a>
     % }
     </div>
   </div>
