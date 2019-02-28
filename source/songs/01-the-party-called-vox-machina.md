@@ -24,7 +24,7 @@ They were taken in by their father but, due to his detached demeanor, struck off
 The tough critter they raise is Vex's Beastmaster ranger companion, a bear named Trinket.
 
 Kima, a fierce halfling paladin who the party previously rescued from the Underdark at the behest of Allura,
-details the origins of Grog Strongjaw the goliath barbarian. He became disillusioned with his family and tribe,
+details the origins of Grog Strongjaw the simple-minded goliath barbarian. He became disillusioned with his family and tribe,
 the Herd of Storms, due to their merciless destruction, but couldn't leave without invoking their wrath.
 
 Allura introduces Percival Fredrickstein Von Musel Klossowski de Rolo III,
