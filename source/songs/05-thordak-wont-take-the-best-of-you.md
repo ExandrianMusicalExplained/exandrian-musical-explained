@@ -15,5 +15,11 @@ Back at the end of the first act, George Washington tells Alexander Hamilton of 
 </iframe></div>
 
 As the skull debate winds down, Allura arrives and is told of the attacking Conclave.
-She reveals that she and others in her party long ago fought Thordak the Cinder King,
-finally trapping him in the Fire Plane, which he has now escaped.
+She reveals that she adventured with Kima and others long ago and fought Thordak the Cinder King,
+finally trapping him in the Fire Plane 15 years ago, but at the cost of three of their party;
+only Allura, Kima, and Drake Thunderbrand survived.
+
+It is also revealed that Thordak was the dragon that destroyed the town of Byroden
+and killed the mother of Vex and Vax while they were staying with their father;
+and that Pyrah, where the Fire Ashari guarded a portal to the Fire Plane,
+has been destroyed in Thordak's apparent escape from the plane.

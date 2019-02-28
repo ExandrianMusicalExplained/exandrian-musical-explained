@@ -22,4 +22,4 @@ After having seen firsthand the power of the Conclave in Vorugal's attack on the
 Percy and Vax caution that they do not know enough about the deal they are considering, and that the entity could even be worse than the Conclave.
 Percy hides the skull with a minor illusion and passes it to Vex, and a scuffle ensues as the rest of the party arrives.
 Grog easily wrests the skull from Vex and attempts to smash it, but fails, rolling a natural 1 as he loses his will to defy the party.
-Vex quickly picks up the skull again to take it away as the party convinces Grog the risk is too great.
+Vex quickly picks up the skull again to keep it away from Grog as the party convinces Grog the risk is too great.
